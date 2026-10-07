@@ -1,0 +1,6 @@
+.env.prod.db
+venv/
+env/
+__pycache__/
+services/web/project/media/*
+!services/web/project/media/.gitkeep
